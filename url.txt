@@ -1,1 +1,1 @@
-https://dashboard-bicycle-share.streamlit.app/
+https://dashboard-bike-rent-share.streamlit.app/
