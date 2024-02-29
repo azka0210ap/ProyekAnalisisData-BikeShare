@@ -5,8 +5,8 @@ import seaborn as sns
 import streamlit as st
 
 # Load Data
-path_dataset1 = "../Data/Bike_Share.csv"
-path_dataset2 = "../Data/Bike_Share_hour.csv"
+path_dataset1 = "./Data/Bike_Share.csv"
+path_dataset2 = "./Data/Bike_Share_hour.csv"
 
 df_day= pd.read_csv(path_dataset1)
 df_hour= pd.read_csv(path_dataset1)
